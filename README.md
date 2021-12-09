@@ -1,9 +1,7 @@
--------About-----------
 This project is used to help the students and their mentors for clarification of the stundets queries
 Students post their query to one of our mentors and mentors answer the queries
 
 
----------Project Setup--------
 1. Clone the project repository 
 2. create a python3 virtual env and activate it
 3. change your working directory to the project directry
